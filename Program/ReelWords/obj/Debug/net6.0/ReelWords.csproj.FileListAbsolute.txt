@@ -1,0 +1,14 @@
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/bin/Debug/net6.0/ReelWords
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/bin/Debug/net6.0/ReelWords.deps.json
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/bin/Debug/net6.0/ReelWords.runtimeconfig.json
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/bin/Debug/net6.0/ReelWords.dll
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/bin/Debug/net6.0/ReelWords.pdb
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.AssemblyInfoInputs.cache
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.AssemblyInfo.cs
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.csproj.CoreCompileInputs.cache
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.dll
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/refint/ReelWords.dll
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.pdb
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ReelWords.genruntimeconfig.cache
+/Users/shadows_s/Downloads/CodeChallenge/Program/ReelWords/obj/Debug/net6.0/ref/ReelWords.dll
